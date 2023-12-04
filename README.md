@@ -1,5 +1,5 @@
 # ML
-**Stuff for theoretical ML**
+*Stuff for theoretical ML*
 ### Unit 1
 **Distances :**
 
