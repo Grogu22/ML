@@ -13,4 +13,5 @@ For Distance based methods :
 Do KNN, K means, K medoids,  
 
 K means : (1) using Euclidean distance : https://www.youtube.com/watch?v=KzJORp8bgqs
+
 K mediods : (1) https://www.youtube.com/watch?v=ChBxx4aR-bY
