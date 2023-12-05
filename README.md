@@ -29,3 +29,10 @@ Do ID3 :
 2. [ID3 solved problem](https://www.youtube.com/watch?v=coOTEc-0OGw)
 3. [Article 1](https://www.cse.unsw.edu.au/~cs9417ml/DT1/decisiontreealgorithm.html#:~:text=ID3%20is%20a%20simple%20decision,attribute%20at%20every%20tree%20node.)
 
+**Linear Models :**
+
+Linear Regression : [Least Squares Method](https://www.youtube.com/watch?v=QcPycBZomac)
+
+Multilinear Regression : [Multilinear Regression solving using matrix reduction](https://www.youtube.com/watch?v=_OyKjstWe80)
+
+Getting inverse of a matrix : https://www.youtube.com/watch?v=vKBNzM3V-Rc
