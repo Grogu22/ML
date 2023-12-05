@@ -11,11 +11,15 @@
 For Distance based methods : 
 
 Do KNN, K means, K medoids, DBSCAN 
-* K means : (1) using Euclidean distance : https://www.youtube.com/watch?v=KzJORp8bgqs
+* K means :
+   1. Solving using Euclidean distance : https://www.youtube.com/watch?v=KzJORp8bgqs
+   2. Silhouette Method and Elbow Method : https://www.youtube.com/watch?v=wW1tgWtkj4I
 * K medoids : (1) https://www.youtube.com/watch?v=ChBxx4aR-bY
 * DBSCAN clustering : (1) https://www.youtube.com/watch?v=-p354tQsKrs
 * Norm : (1) https://www.youtube.com/watch?v=FiSy6zWDfiA
-* KNN : (1) https://www.youtube.com/watch?v=Vk9lGGODaJA
+* KNN :
+  1. [Solving KNN with random/given value of K](https://www.youtube.com/watch?v=Vk9lGGODaJA)
+  
 
 Decision Trees : 
 
