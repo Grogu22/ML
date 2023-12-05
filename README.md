@@ -21,4 +21,5 @@ Decision Trees :
 Do ID3 : 
 1. [ID3 algorithm explained](https://www.youtube.com/watch?v=K-oGwFoCGU0)
 2. [ID3 solved problem](https://www.youtube.com/watch?v=coOTEc-0OGw)
+3. [Article 1](https://www.cse.unsw.edu.au/~cs9417ml/DT1/decisiontreealgorithm.html#:~:text=ID3%20is%20a%20simple%20decision,attribute%20at%20every%20tree%20node.)
 
