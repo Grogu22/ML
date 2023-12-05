@@ -15,6 +15,7 @@ Do KNN, K means, K medoids, DBSCAN
 * K medoids : (1) https://www.youtube.com/watch?v=ChBxx4aR-bY
 * DBSCAN clustering : (1) https://www.youtube.com/watch?v=-p354tQsKrs
 * Norm : (1) https://www.youtube.com/watch?v=FiSy6zWDfiA
+* KNN : (1) https://www.youtube.com/watch?v=Vk9lGGODaJA
 
 Decision Trees : 
 
