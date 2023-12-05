@@ -14,6 +14,7 @@ Do KNN, K means, K medoids, DBSCAN
 * K means :
    1. Solving using Euclidean distance : https://www.youtube.com/watch?v=KzJORp8bgqs
    2. Silhouette Method and Elbow Method : https://www.youtube.com/watch?v=wW1tgWtkj4I
+   3. Computing Silhouette Coefficient : https://www.youtube.com/watch?v=FGXkbawTHRQ
 * K medoids : (1) https://www.youtube.com/watch?v=ChBxx4aR-bY
 * DBSCAN clustering : (1) https://www.youtube.com/watch?v=-p354tQsKrs
 * Norm : (1) https://www.youtube.com/watch?v=FiSy6zWDfiA
