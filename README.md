@@ -14,3 +14,4 @@ Do KNN, K means, K medoids, DBSCAN
 * K means : (1) using Euclidean distance : https://www.youtube.com/watch?v=KzJORp8bgqs
 * K medoids : (1) https://www.youtube.com/watch?v=ChBxx4aR-bY
 * DBSCAN clustering : (1) https://www.youtube.com/watch?v=-p354tQsKrs
+* Norm : (1) https://www.youtube.com/watch?v=FiSy6zWDfiA
