@@ -36,3 +36,6 @@ Linear Regression : [Least Squares Method](https://www.youtube.com/watch?v=QcPyc
 Multilinear Regression : [Multilinear Regression solving using matrix reduction](https://www.youtube.com/watch?v=_OyKjstWe80)
 
 Getting inverse of a matrix : https://www.youtube.com/watch?v=vKBNzM3V-Rc
+
+Logistic Regression :
+1. 
