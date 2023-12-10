@@ -38,4 +38,5 @@ Multilinear Regression : [Multilinear Regression solving using matrix reduction]
 Getting inverse of a matrix : https://www.youtube.com/watch?v=vKBNzM3V-Rc
 
 Logistic Regression :
-1. 
+1. [Logistic Regression Algorithm](https://www.youtube.com/watch?v=2C8IqOLO1os)
+2. 
